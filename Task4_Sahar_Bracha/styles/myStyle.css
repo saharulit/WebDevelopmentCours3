@@ -1,0 +1,73 @@
+body 
+{
+    direction:rtl;
+    background-image: url('../imanges/backgraund.png');
+    
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+    }
+label{
+    display: inline-block;
+    margin: 20px;
+}
+form{
+    width: 687px;
+    height: 94px;
+    background-color: #eeeeee;
+    margin-right: 148px;
+    margin-top: 10px;
+
+}
+
+input[type ='text'] , input[type ='tel'] ,input[type ='email'], textarea , select {
+    display:block;
+    margin-bottom:15px;
+}
+label , ul{
+    font-size: 14pt;
+    }
+input[type ='submit']
+{
+ margin-top:10px;
+}
+h1{
+    color: #287CA6;
+    font-size: 30pt;
+    text-align: center;
+    }
+#pic{
+        background-image: url('../imanges/students.jpg');
+     background-repeat: no-repeat;
+    background-position: center; 
+    height: 300px;
+    }
+h2 ,.link{
+    font-size: 20pt;
+    text-align: center;
+    background-color: #304C59;
+    color: white;
+    }
+.sqr{
+    background-color: #eeeeee;
+    display: inline-block;
+    position:absolute;
+    
+}
+li{
+    list-style-type:none;
+    margin: 10px;
+}
+#q{
+        margin-top: 211px;
+}
+#li2{
+        margin-right: 276px;
+    margin-top: 42px;
+}
+#li1{
+        margin-right: 12px;
+    margin-top: 12px;
+}
